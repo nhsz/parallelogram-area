@@ -1,0 +1,33 @@
+{
+  "name": "parallelogram-area",
+  "version": "0.0.1",
+  "description": "Get the area of a parallelogram, given the base and height",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhsz/parallelogram-area.git"
+  },
+  "keywords": [
+    "parallelogram",
+    "area",
+    "polygons",
+    "math"
+  ],
+  "author": {
+    "name": "Nicolás Quiroz",
+    "email": "nh.quiroz@gmail.com",
+    "url": "nicolasquiroz.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhsz/parallelogram-area/issues"
+  },
+  "homepage": "https://github.com/nhsz/parallelogram-area#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
