@@ -1,6 +1,6 @@
 {
   "name": "parallelogram-area",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get the area of a parallelogram, given the base and height",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "parallelogram",
     "area",
     "polygons",
+    "geometry",
     "math"
   ],
   "author": {
