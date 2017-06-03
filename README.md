@@ -1,6 +1,6 @@
 # parallelogram-area
 
-[![NPM](https://nodei.co/npm/parallelogram-area.png)](https://nodei.co/npm/parallelogram-area/)
+[![NPM](https://nodei.co/npm/parallelogram-area.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/parallelogram-area/)
 
 > Get the **[`area of a parallelogram`](https://en.wikipedia.org/wiki/Parallelogram#Area_formula)**, given the base and height
 
